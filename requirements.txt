@@ -1,0 +1,16 @@
+flask  # Web development
+django  # Web development
+fastapi  # Web development
+numpy  # Numerical computations
+pandas  # Data manipulation
+scikit-learn  # Machine learning
+matplotlib  # Plotting and visualization
+seaborn  # Advanced visualization
+pytest  # Testing framework
+requests  # HTTP requests
+beautifulsoup4  # Web scraping
+sqlalchemy  # Database ORM
+celery  # Task queue
+jupyter  # Interactive computing
+networkx
+ipykernel
